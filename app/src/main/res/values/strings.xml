@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebasePrueba</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_name">Color name</string>
+    <string name="hex">Hex</string>
+    <string name="guardar">Guardar</string>
+</resources>
