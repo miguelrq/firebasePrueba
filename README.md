@@ -3,6 +3,7 @@ https://bitbucket.org/pucp/taxicab.git
 https://github.com/Agc96/Sidebar  
 https://github.com/jchudb93/TabBar  
 https://github.com/louMon/NavigationGraph  
+https://bitbucket.org/pucp/android-inf32021.git  
 
 # Navigation Graph
  - Version de android studio 3.2 canary 14
@@ -10,7 +11,7 @@ https://github.com/louMon/NavigationGraph
  - Creacion: Resources -> new -> type navigation
  - En el .xml del activity se añade un fragment que será al que se le asigne todos los demas fragments de navigation graph.
  - Add a destination (fragment) MainFragment
-
+ - add Acciones para cambiar de fragment (go to a destination)
 # Information Passing
  - De Activity a fragment
     https://stackoverflow.com/questions/12739909/send-data-from-activity-to-fragment-in-android
@@ -29,3 +30,9 @@ https://github.com/louMon/NavigationGraph
     https://www.c-sharpcorner.com/article/how-to-start-camera-application-in-android-using-android-studio/
  - Maps
     https://abhiandroid.com/programming/googlemaps
+ - RecyclerView
+    https://stackoverflow.com/questions/40584424/simple-android-recyclerview-example
+    En prest Profile  PaymentMethods  
+    En taxicab fragments
+ - Maps
+  https://github.com/mitchtabian/Google-Maps-Google-Places.git
